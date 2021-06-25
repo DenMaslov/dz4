@@ -1,3 +1,4 @@
+""" Calculator module test cases """
 import pytest
 import math
 
