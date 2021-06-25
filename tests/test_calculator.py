@@ -113,6 +113,6 @@ def test_root_invalid(calculator: Calculator, a: int):
     'a',
     [-1.0, -3, -1.44]
 )
-def test_root_invalid(calculator: Calculator, a: int):
+def test_root_negative(calculator: Calculator, a: int):
     with pytest.raises(ValueError):
         calculator.root(a)
