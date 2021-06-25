@@ -5,7 +5,7 @@
 4. pipenv install
 7. Requires module "pytest"
 
-for testing in tests directory run:  pytest
+for testing in tests directory run:  pytest -v
 
 ### TESTED WITH:
 * Windows 10
