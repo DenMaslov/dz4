@@ -1,6 +1,6 @@
 ### INSTALLATION:
-1. git clone https://github.com/DenMaslov/dz-4.git
-2. cd dz-4
+1. git clone https://github.com/DenMaslov/dz4.git
+2. cd dz4
 3. pipenv shell
 4. pipenv install
 7. Requires module "pytest"
