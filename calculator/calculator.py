@@ -56,6 +56,6 @@ class Calculator:
         return isinstance(x, int) and isinstance(y, int)
 
     def _rise_type_error(self):
-        raise TypeError("Arg must be an integer")
+        raise TypeError("Args must be an integer")
 
 
